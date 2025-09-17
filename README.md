@@ -1,2 +1,2 @@
-# CS-262
+# cs262
 Software Engineering
