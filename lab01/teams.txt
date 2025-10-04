@@ -1,0 +1,23 @@
+Demographics
+- Class level:  junior
+- Major: Digital Communication/CS
+- Letter grades in CS 112 and 212: [CS112: B-], [CS212: ??]
+- CS 262 section: B
+- Can you attend the full Friday lab session (and team with the other section)? No
+
+Technical
+- Experience with JavaScript/TypeScript apps:  "none"
+- Experience with SQL/database systems:  "none"
+- Tools used (Slack, Trello, Git/GitHub): Github for a class (CS112)
+- Project(s) you’d like to work on (include at least one tractable idea):
+  TradeHands
+  Campus Event Finder
+  AI-powered path builder 
+
+Personality
+- Big Five scores (five numbers only, in order): [O 58, C 58, E 37.5, A 94, N 46]
+- Teammate preferences: Anyone
+- Anything else: [optional]
+
+Names:
+- Beta Akari

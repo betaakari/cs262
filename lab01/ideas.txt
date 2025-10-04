@@ -1,0 +1,7 @@
+Tractable idea:
+Campus Event Finder: My project idea is Campus Event Finder, a web app that puts all student events in one place, like right now, many students miss events because the information is spread across posters, emails, and social media. At the same time, organizers don’t know how many people will come, which makes it hard to plan food, seating, and materials.
+The solution is Campus Event Finder, where students can see all upcoming events in one spot and RSVP to the ones they want to attend. This will also help organizers know how many people to expect. The app would include event listings with details, a way to search or filter by category, date, or keyword, an RSVP system for students, and an organizer dashboard to create and manage events.
+As extra features, it could also sync with calendars like Google or Outlook, send event reminders, and let students save their favorite events.
+
+Wacky app: 
+A drone that delivers snacks and anything else students need from the market straight to their dorm or room. You just order on the app, and the drone brings it to your window or door. It would make student life much easier, but it’s probably too hard to build right now.
