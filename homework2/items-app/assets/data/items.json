@@ -1,0 +1,30 @@
+cat > assets/data/items.json << 'EOF'
+{
+  "items": [
+    {
+      "id": "1",
+      "name": "Café Press Mug",
+      "price": 12.99,
+      "category": "Kitchen",
+      "image": "https://picsum.photos/seed/mug/400/300",
+      "description": "A sturdy ceramic mug for your morning coffee. Dishwasher safe."
+    },
+    {
+      "id": "2",
+      "name": "Wireless Mouse",
+      "price": 24.5,
+      "category": "Electronics",
+      "image": "https://picsum.photos/seed/mouse/400/300",
+      "description": "Ergonomic 2.4GHz wireless mouse with silent clicks."
+    },
+    {
+      "id": "3",
+      "name": "Notebook A5",
+      "price": 6.75,
+      "category": "Stationery",
+      "image": "https://picsum.photos/seed/notebook/400/300",
+      "description": "96-page dotted A5 notebook for notes, sketches, and planning."
+    }
+  ]
+}
+EOF
